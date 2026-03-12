@@ -1,0 +1,7 @@
+[package]
+name = "askama-macro-bug"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+askama = { version = "0.15.4" }
